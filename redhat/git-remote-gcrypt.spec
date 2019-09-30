@@ -3,7 +3,6 @@ Version:    1.2
 Release:    1%{?dist}
 Summary:    GNU Privacy Guard-encrypted git remote
 
-Group:      Development Tools
 License:    GPLv3
 URL:        https://git.spwhitton.name/%{name}
 Source0:    https://git.spwhitton.name/%{name}/snapshot/%{name}-%{version}.tar.gz
